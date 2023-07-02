@@ -1,0 +1,93 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 18px;
+}
+header img{
+    margin-top: 24px;
+    margin-left: 99px;
+}
+header div{
+    width: 600px;
+    margin-top: 33px;
+}
+div li{
+    margin-right: 50px;
+    display: inline-block;
+    color: #636060;
+    font-size: 17px;
+}
+.material-symbols-outlined{
+    display: none !important;
+    margin-right: 8%;
+    margin-top: 4%;
+}
+.section1{
+    height: 600px;
+    background-image: url(../images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section1 h1{
+    position:absolute;
+    text-align: center;
+    color: #FFF;
+    font-size: 79px;
+    font-weight: 700;
+}
+.section1 h2{
+    position: absolute;
+    text-align: center;
+    color: #FFF;
+    font-size: 19px;
+    top: 444px;
+}
+.section2{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
+.textplace{
+    width: 215px;
+    display: inline-block;
+}
+.h2{
+    color: #636060;
+    font-size: 17px;
+}
+.h21{
+    margin-top: 9px;
+    color: #010101;
+    font-size: 28px;
+}
+.h22{
+    margin-top: 37px;
+    color: #636060;
+    font-size: 20px;
+}
+.flex-container{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 4%;
+}
+.offerbox{
+    width: 286px;
+    margin-right: 3%;
+    margin-top: 33px;
+}
+h3{
+    margin-top: 23px;
+    color: #343232;
+    font-size: 19px;
+}
+h4{
+    margin-top: 9px;
+    color: #636060;
+    font-size: 18px;
+}
